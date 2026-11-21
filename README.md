@@ -1,0 +1,2 @@
+# product-factory-strategist
+MGIMO
